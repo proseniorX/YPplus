@@ -2,19 +2,21 @@
     {
         "interface": "192.168.50.73",
         "domains": [
-            "crescentserver.gleeze.com"
+            "domainA.com",
+            "alias.domainA.com"
         ],
         "username": "optional",
-        "password": "dfdtd6e8th",
+        "password": "psswrd",
         "interval": "60"
     },
     {
         "interface": "192.168.42.55",
         "domains": [
-            "elunedataserver2.gleeze.com"
+            "domainB.com",
+            "alias.domainB.com"
         ],
         "username": "optional",
-        "password": "dfdtd6e8th",
+        "password": "psswrd",
         "interval": "20"
     }
 ]
