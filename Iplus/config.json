@@ -1,0 +1,20 @@
+[
+    {
+        "interface": "192.168.50.73",
+        "domains": [
+            "crescentserver.gleeze.com"
+        ],
+        "username": "optional",
+        "password": "dfdtd6e8th",
+        "interval": "60"
+    },
+    {
+        "interface": "192.168.42.55",
+        "domains": [
+            "elunedataserver2.gleeze.com"
+        ],
+        "username": "optional",
+        "password": "dfdtd6e8th",
+        "interval": "20"
+    }
+]
